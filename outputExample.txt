@@ -1,0 +1,8 @@
+Wrong data format in line 5
+Type country code: X
+There is no such country code in my collection
+Do you want to try again? y/n
+y
+Type country code: PL
+Polska(PL) is inhabitated by 38000000 people
+Do you want to try again? y/n
